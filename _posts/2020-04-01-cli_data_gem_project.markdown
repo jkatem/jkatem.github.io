@@ -1,12 +1,11 @@
 ---
 layout: post
 title:      "CLI Data Gem Project"
-date:       2020-04-01 22:50:05 +0000
+date:       2020-04-01 18:50:06 -0400
 permalink:  cli_data_gem_project
 ---
 
 
-The content of your blog post goes here.
 
 For our first project at FlatIron, we had to design a CLI application using either an API or scrapping. I decided to use  API for retrieving data for 50 breweries in San Diego. In my application, I give the user a choice to either search by name or brewery type, and based on their input, a list will generate. If they wish to learn more about a particular brewery, they can. The data that they will find includes the id number, name, brewery type, street address, phone number, and website. 
 
